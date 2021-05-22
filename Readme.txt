@@ -1,0 +1,1 @@
+Çalıştırmak için Calculator.exe dosyasını çalıştırın.
